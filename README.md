@@ -1,6 +1,6 @@
 # Smart India Hackathon Workshop
-## Name: HARI PRASATH E
-## Reg No: 25007799
+## Name: sribalakumaran r
+## Reg No: 25017614
 # Date: 24-09-2025
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
